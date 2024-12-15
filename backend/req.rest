@@ -1,0 +1,16 @@
+
+GET http://localhost:5000/quote/Happy
+
+### Test Add a Mood
+POST http://localhost:5000/moods
+Content-Type: application/json
+
+{
+  "mood": "Happy"
+}
+
+###
+GET http://localhost:5000/moods
+
+###
+GET http://localhost:5000/all-quotes
