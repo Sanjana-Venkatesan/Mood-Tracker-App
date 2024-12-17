@@ -27,8 +27,8 @@ screens/
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/Sanjana-Venkatesan/Mood-Tracker-App.git
+   cd Mood-Tracker-App
    ```
 2. Install dependencies:
    ```bash
